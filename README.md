@@ -5,7 +5,7 @@ Programming Language: Python programming Language
 
 Game Screenshots:
 
-<img src="images/screenshot1.png">
+<img src="/images/screenshot1.png">
   
 ![](images/screenshot1.png)
 
