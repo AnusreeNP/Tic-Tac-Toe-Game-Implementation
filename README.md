@@ -5,6 +5,7 @@ Programming Language: Python programming Language
 
 Game Screenshots:
 
-![]images/screenshot1
+![](images/screenshot1.png)
 
-![]images/screenshot2
+![](images/screenshot2.png)
+
