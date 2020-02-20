@@ -3,11 +3,9 @@ This is a project which is intended to implement a tic tac toe game. The project
 
 Programming Language: Python programming Language
 
-Game Screenshots:
+Output Screenshots:
 
-<img src="/images/screenshot1.png">
-  
-![](images/screenshot1.png)
+<img src="/images/Screenshot1.png">
 
-![](images/screenshot2.png)
+<img src="/images/Screenshot2.png">
 
